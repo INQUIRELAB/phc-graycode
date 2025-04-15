@@ -15,17 +15,17 @@ This repository contains the simulation files, configurations, and instructions 
 ## 🔬 Simulation Instructions
 
 ### Frequency Domain
-1. Launch **Lumerical 2020 R2.4** software.
-2. Navigate to `Products → New → FDTD`.
-3. Open the file `B1B0_01.fsp`.
-4. Use monitors `G0` and `G1` to plot the transmission spectrum.
-5. Use the `monitor` object to visualize electric, magnetic, or power fields at 1.55 µm.
+1. For Two Bit-B2G-Frequency Domain, Lunch B1B0_01.fsp
+2. Use monitors `G0` and `G1` to plot the transmission spectrum.
+3. Use the `monitor` object to visualize electric, magnetic, or power fields at 1.55 µm.
 
 ### Time Domain
-1. Launch **Lumerical 2020 R2.4** software.
-2. Create a new FDTD simulation.
-3. Open the file named `Time`.
-4. Use time-domain monitors (`B0`, `B1`, `G0`, and `G1`) to analyze the temporal behavior of electric and magnetic fields.
+1. For Two Bit-B2G-Time Domain, Launch Time.fsp
+2. For 3Bits B2G_1, lunch B2B1B0_001.fsp
+3. Use time-domain monitors (`B0`, `B1`, `G0`, and `G1`) to analyze the temporal behavior of electric and magnetic fields.
+
+### Band Structure
+1- For Band Structure, see the folder Band Structure-Rsoft 
 
 ## 📜 License
 
