@@ -29,7 +29,7 @@ This repository contains the simulation files, configurations, and instructions 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. See the [LICENSE](./LICENSE) file for details.
 
 ## 🧩 Applications
 
@@ -37,3 +37,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 - Binary neural network accelerators
 - Photonic integrated circuits
 - Low-power, high-speed optical computing
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
